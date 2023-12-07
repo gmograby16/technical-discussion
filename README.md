@@ -18,4 +18,4 @@ This is the [notebook](technical_docs.ipynb)
 
 ### Image 
 
-https://github.com/gmograby16/technical-discussion/issues/2#issue-2031029884
+<img width="145" alt="image" src="https://github.com/gmograby16/technical-discussion/assets/108091341/d1cf501b-8032-4f05-9f99-b491da2d2839">
