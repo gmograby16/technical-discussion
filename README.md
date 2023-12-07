@@ -4,9 +4,10 @@ This is a demo repo for sharing ideas about communication
 
 ## This is a second heading
 
-* one
-* two
-* three
+* one: **lets try bold**
+* two: _This text is italicized_
+* three ~~This was mistaken tex~~
+* ***All this text is important***
 
 ### Gist
 
